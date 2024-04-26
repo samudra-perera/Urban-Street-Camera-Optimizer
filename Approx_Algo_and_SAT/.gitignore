@@ -1,0 +1,5 @@
+build/
+miniset/
+result/
+.vscode/
+.idea/
